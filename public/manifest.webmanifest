@@ -1,0 +1,18 @@
+{
+  "name": "Scythe Automa — compagnon",
+  "short_name": "Scythe Automa",
+  "description": "Pioche et explique les cartes de l’Automate de Scythe, en français.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a211a",
+  "theme_color": "#3b2f22",
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icones/icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icones/icone.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
